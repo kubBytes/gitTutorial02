@@ -3,3 +3,4 @@
 02-addFiles : file01, file02を追加した。
 03-deleteFile : file02を削除した。
 04-backupGitFile : gitファイルをバックアップ、ローカルのコードを削除した。
+05-restoreTheGitFolder : コードをクローン、.gitファイルを戻した。
