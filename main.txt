@@ -2,3 +2,4 @@
 01-firstCommit : first commit
 02-addFiles : file01, file02を追加しました。file01を削除して動作を確認してみます。
 03-deleteFile : file01を削除してみます。
+04-backupGitFile : コードをクローン、バックアップしたgitファイルを戻すことで作業環境が戻せる試します。
