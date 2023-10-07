@@ -1,2 +1,3 @@
 ---------- git練習 ----------
 01-firstCommit : first commit
+02-addFiles : file01, file02を追加しました。file01を削除して動作を確認してみます。
