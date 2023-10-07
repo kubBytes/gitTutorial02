@@ -1,2 +1,3 @@
 ---------- 以下、行った操作の記録 ----------
 01-firstCommit : gitHubとSSH接続した。
+02-addFiles : file01, file02を追加した。
